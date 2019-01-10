@@ -11,5 +11,5 @@ Focused on contigs > 1kb that have 0 or 1 HMM viral domains
 
 ### 2) Confident determination of host or non-virus…
 
-### 3) Trivial reasons
+### 3) Trivial reasons.
 
